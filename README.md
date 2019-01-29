@@ -1,4 +1,5 @@
-# spa-app
+# AMAZON-like app for client/customer. You can buy/cell/add products for customers and order some items. 
+# auth/storage/database is make by Firebase.
 
 ## Project setup
 ```
@@ -15,15 +16,8 @@ npm run serve
 npm run build
 ```
 
-### Run your tests
+### Hosting app
 ```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
+https://vue-products-like.firebaseapp.com/
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
